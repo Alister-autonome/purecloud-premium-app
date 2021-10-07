@@ -2,7 +2,7 @@ export default {
     clientID: '51d644ee-f5c4-4fa0-9a3e-9821bc90a279',
 
     // 'wizardUriBase': 'http://localhost:8080/wizard/',
-    wizardUriBase: 'https://mypurecloud.github.io/purecloud-premium-app/wizard/',
+    wizardUriBase: 'https://alister-autonome.github.io/purecloud-premium-app/wizard/',
 
     // The actual URL of the landing page of your web app.
     // 'premiumAppURL': 'http://localhost:8080/premium-app-sample/index.html',
